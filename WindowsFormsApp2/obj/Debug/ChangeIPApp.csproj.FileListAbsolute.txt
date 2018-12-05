@@ -1,0 +1,10 @@
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\ChangeIPApp.csproj.GenerateResource.cache
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\ChangeIPApp.csproj.CoreCompileInputs.cache
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\FMartinez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\ChangeIPApp.csprojAssemblyReference.cache
